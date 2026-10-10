@@ -1,4 +1,4 @@
-```php
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -30,4 +30,4 @@ echo "<br>";
 
 </body>
 </html>
-```
+
